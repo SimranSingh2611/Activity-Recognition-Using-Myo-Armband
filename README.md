@@ -8,3 +8,7 @@ Assignment 1 comprised of three phases:
 2. Feature Extraction
 3. Feature Selection
 
+In Assignment 2, we did user dependent analysis. Considered the new set of features that were obtained by multiplying the PCA output with the feature set. Divided that new feature set into two parts for each user: a) part 1: training and b) part 2: test. Used three types of machines: a) decision trees, b) support vector machines, and c) neural networks. 
+Trained each machine with the training data and then used the test data to report accuracy. The accuracy metrics used were:  Precision, Recall, F1 score. Reported each metric for every user.
+
+
